@@ -1,5 +1,5 @@
-import Order2 from "./order2";
-import Styles from "../Css/SignUpCss/signUp2Form.module.css";
+import Order2 from "./Order2";
+import Styles from "../Css/SignUpCss/SignUp2Form.module.css";
 import {useNavigate} from "react-router-dom";
 import React, {useEffect, useState} from 'react';
 import axios from "axios";

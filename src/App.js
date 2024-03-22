@@ -1,12 +1,12 @@
-import MainPage from './View/mainPage'
-import SignUp1 from './View/signUp1';
+import MainPage from './View/MainPage'
+import SignUp1 from './View/SignUp1';
 import {BrowserRouter,Route,Routes} from 'react-router-dom';
 import {Component} from "react";
 import {getResizeEventListener} from "./module/SizeRefactor";
-import SignUp2 from './View/signUp2';
-import SignUp3 from './View/signUp3';
-import Login from './View/login'
-import RegisterMain from './View/register'
+import SignUp2 from './View/SignUp2';
+import SignUp3 from './View/SignUp3';
+import Login from './View/Login'
+import RegisterMain from './View/Register'
 class App extends Component{
     render(){
         return (

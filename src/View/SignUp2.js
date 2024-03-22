@@ -2,7 +2,7 @@ import Headers from "../component/mainPage/MainPageHeader";
 import Footer from "../component/mainPage/MainPageFooter";
 import {MainSignUp2} from "../component/SignUp/MainSignUp2";
 import {Component} from "react";
-class signUp2 extends Component{
+class SignUp2 extends Component{
     render(){
         return (
             <div>
@@ -13,4 +13,4 @@ class signUp2 extends Component{
         )
     }
 }
-export default signUp2;
+export default SignUp2;
