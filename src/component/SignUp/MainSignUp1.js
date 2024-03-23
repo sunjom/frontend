@@ -1,5 +1,5 @@
-import styles from '../Css/SignUpCss/signUp1Main.module.css';
-import Order1 from './order1'
+import styles from '../Css/SignUpCss/SignUp1Main.module.css';
+import Order1 from './Order1'
 import { useState} from "react";
 import {Link} from "react-router-dom";
 export default function MainSignUp1(){

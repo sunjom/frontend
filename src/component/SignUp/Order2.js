@@ -1,7 +1,7 @@
-import styles from '../Css/SignUpCss/order1.module.css';
+import styles from '../Css/SignUpCss/Order2.module.css';
 import start from '../../GIVE_사진/start.png';
 import startYet from '../../GIVE_사진/start_yet.png';
-export default function Order1(){
+export default function Order2(){
     return(
         <div className={styles.order}>
             <div className={styles.step1}>
@@ -15,6 +15,9 @@ export default function Order1(){
             <div className={styles.step2}>
                 <p>STEP 02</p>
                 <p>회원정보 입력</p>
+            </div>
+            <div className={styles.blocks}>
+
             </div>
             <img src={startYet} alt="이미지없음"/>
             <div className={styles.step3}>

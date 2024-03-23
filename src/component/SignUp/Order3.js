@@ -1,6 +1,6 @@
-import styles from '../Css/SignUpCss/order3.module.css';
+import styles from '../Css/SignUpCss/Order3.module.css';
 import start from '../../GIVE_사진/start.png';
-export default function Order1(){
+export default function Order3(){
     return(
         <div className={styles.order}>
             <div className={styles.step1}>
